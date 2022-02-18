@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+ 
+ }
+ .logo{
+    flex-basis: 100%;
+    }
+.logo img{
+  width: 500px;
+}
+.logo{
+    flex: 1;
+    text-align: center;
+}
+.textbox1{
+  text-align: center;
+}
+.stickynotetext{
+  text-align: center;
+  font-family: sans-serif;
+}
